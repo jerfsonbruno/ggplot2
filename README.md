@@ -1,3 +1,7 @@
+Introdução a Visualização de dados com ggplot2
+========
+
+
 Objetivo
 ========
 
@@ -47,7 +51,8 @@ seguintes camadas:
 
 -   Theme: Temas pradronizados de cores, tamanhos, letras, etc.
 
-<img src="theme.png" width="500" height="500">
+<img src="ggplot_files/figure-markdown_github/theme.png" style="display: block; margin: auto;" />
+
 
 ggplot2 - O que? e porque usar?
 ===============================
