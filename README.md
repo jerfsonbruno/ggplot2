@@ -51,7 +51,7 @@ seguintes camadas:
 
 -   Theme: Temas pradronizados de cores, tamanhos, letras, etc.
 
-<img src="ggplot_files/figure-markdown_github/theme.png" style="display: block; margin: auto;" />
+<img src="ggplot_files/theme.png" style="display: block; margin: auto;" />
 
 
 ggplot2 - O que? e porque usar?
